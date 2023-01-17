@@ -1,9 +1,9 @@
-// const total = 100;
-// const ordered = 101;
+const total = 100;
+const ordered = 101;
 
-// if (total < ordered) {
-//     console.log("На складі недостатньо товарів!");
-// } else {
-//     console.log("Замовлення оформлено, з вами зв'яжеться менеджер");
-// };
+if (total < ordered) {
+    console.log("На складі недостатньо товарів!");
+} else {
+    console.log("Замовлення оформлено, з вами зв'яжеться менеджер");
+};
 
